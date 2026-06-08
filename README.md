@@ -1,1 +1,0 @@
-# MobileNet-CIFAR10-Lightweight-Classification
