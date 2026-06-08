@@ -11,4 +11,4 @@ Observations:
 * Faster inference compared to larger CNN models
 * Good accuracy on CIFAR-10
 
-Prepared By: Team Member 3
+Prepared By: Team Member 3 (B.Sumith)
